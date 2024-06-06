@@ -1,0 +1,69 @@
+  {
+
+"slides":[
+  
+{ "id": 1, "img": "https://cdn2.parfumdreams.de/image/cms/171591-0.webp?imwidth=1312", "imgMobile":"https://cdn2.parfumdreams.de/image/cms/171592-0.webp?imwidth=575", "color": " red", "model" : "Belarus-2003"},
+{"id": 2,  "img" : "https://cdn2.parfumdreams.de/image/cms/171583-0.webp?imwidth=1312", "imgMobile":"https://cdn2.parfumdreams.de/image/cms/171584-0.webp?imwidth=575", "color": " red", "model" : "Belarus-2003"},
+{"id": 3, "img" : "https://cdn2.parfumdreams.de/image/cms/171585-0.webp?imwidth=1312", "imgMobile":"https://cdn2.parfumdreams.de/image/cms/171586-0.webp?imwidth=575", "color": " red", "model" : "Belarus-2003"},
+{"id": 4, "img" : "https://cdn2.parfumdreams.de/image/cms/171577-0.webp?imwidth=1312", "imgMobile":"https://cdn2.parfumdreams.de/image/cms/171578-0.webp?imwidth=575", "color": " red", "model" : "Belarus-2003"},
+{"id": 5, "img" : "https://cdn2.parfumdreams.de/image/cms/171579-0.webp?imwidth=1312", "imgMobile":"https://cdn2.parfumdreams.de/image/cms/171580-0.webp?imwidth=575", "color": " red", "model" : "Belarus-2003"},
+{"id": 6, "img" : "https://cdn2.parfumdreams.de/image/cms/171581-0.webp?imwidth=1312", "imgMobile":"https://cdn2.parfumdreams.de/image/cms/171582-0.webp?imwidth=575", "color": " red", "model" : "Belarus-2003"}
+
+
+
+],
+
+"brands":[
+  {"id": 1, "brandImg": "https://i.pinimg.com/564x/68/15/35/681535a325d58f4b25a17d6117b30a97.jpg", "brandTitle":"Hər Anınıza Özəl Bir Ətir", "brandText":"Ətirlər, xatirələrimizi canlandıran və hisslərimizi hərəkətə gətirən ən güclü vasitələrdir. Saytımızda, dünyanın ən yaxşı parfüm markalarının özəl kolleksiyalarını tapa bilər, özünüzə və sevdiklərinizə unudulmaz bir hədiyyə seçə bilərsiniz"},
+
+  {"id":2, "brandImg":"https://i.pinimg.com/564x/d0/dd/42/d0dd4204a2836cefda4aee274a9765b5.jpg", "brandTitle":"Hər Hissə Bir Ətir", "brandText":"Gözəlliyin və zərifliyin ən gözəl tamamlayıcısı olan ətirlər, saytımızda sizlər üçün xüsusi olaraq seçildi. Keyfiyyətli, orijinal və bənzərsiz qoxularla özünüzü əzizləyin. Ətir dünyasında yeni bir səfərə çıxmağa hazır olun"},
+  {"id":3, "brandImg":"https://www.talbotrunhof.com/media/image/ff/76/93/tr_perfume_flacon-leather71XyFJOo7ELCj_1280x1792.jpg",  "brandTitle":"Təbiətdən İlham Alan Ətirlər",  "brandText":"Özəl günlər, xatirələr və hisslər... Hər biri üçün özəl bir qoxu var. Saytımızda, həyatınızdakı özəl anları daha da unudulmaz edəcək ətirləri kəşf edin. Ən sevilən markalar və ən yeni qoxular sizi gözləyir."}
+],
+
+"products":[
+  {"id": 1, "img": "https://i.pinimg.com/564x/1b/7c/ca/1b7cca9eff6746a5078cb7b20db8ebae.jpg",  "desc":"Artemis | Tease", "price":"20 AZN"},
+  {"id": 2, "img": "https://i.pinimg.com/564x/e5/72/66/e57266593cbe8696d97543b695b153cf.jpg", "desc":"Artemis | Bombshell", "price":"25 AZN"},
+  {"id": 3, "img": "https://i.pinimg.com/564x/c2/0e/8b/c20e8b2011d5057a786f5cf0bfb1ad4e.jpg", "desc":"Artemis | Bombshell(intense)", "price":"27 AZN"},
+  {"id": 4, "img": "https://i.pinimg.com/564x/b7/f6/17/b7f617c241038228408371fc1e7b2aa5.jpg", "desc":"Artemis | Bombshell(seduction)", "price":"27 AZN"},
+
+  {"id": 5, "img": "https://www.victoriassecret.com/p/280x373/png/zz/24/03/29/23/112427155844_OM_F.jpg", "desc":"Artemis | Bombshell(escape)", "price":"25 AZN"},
+  {"id": 6, "img": "https://i.pinimg.com/564x/be/87/52/be87526444fe501319e42e1a21fef953.jpg", "desc":"Artemis | Tease(canot hoir)", "price":"20 AZN"},
+  {"id": 7, "img": "https://i.pinimg.com/564x/3b/49/35/3b49353c2f3143a9155736c01a8cc892.jpg", "desc":"Artemis | Tendre", "price":"22 AZN"},
+
+  {"id": 8, "img": "https://i.pinimg.com/564x/3f/13/35/3f1335640531760fffe0fcf06f3541f9.jpg", "desc":"Artemis | Formen", "price":"25 AZN"},
+  {"id": 9, "img": "https://i.pinimg.com/564x/34/5f/0a/345f0a7c3a3d98f6b10e62c34706ca00.jpg", "desc":"Artemis | Vive", "price":"23 AZN"},
+
+  {"id": 10, "img": "https://i.pinimg.com/564x/a0/d0/c5/a0d0c57ec88dac068b1fdc9b00fd6d82.jpg", "desc":"Artemis | Molinard", "price":"25 AZN"},
+  {"id": 11, "img": "https://i.pinimg.com/564x/82/4a/45/824a4559cef1f0ff8785978784eb6729.jpg", "desc":"Artemis | Fraicpe", "price":"28 AZN"},
+  {"id": 12,"img": "https://i.pinimg.com/564x/d7/5e/25/d75e25d87125f35c88500869420ac7af.jpg", "desc":"Artemis | Vanil", "price":"20 AZN"}
+
+
+],
+
+"ingradients":[
+  {"id": 1, "ingradientImg": "https://i.pinimg.com/564x/93/64/17/936417d60e6bfa0fc5e6b5475fa59d0f.jpg", "title":"Bergamot"},
+  {"id": 2, "ingradientImg": "https://i.pinimg.com/236x/ba/74/13/ba7413dc5a8061a873249efd24edae3e.jpg","title":"Paçuli"},
+  {"id": 3, "ingradientImg": "https://i.pinimg.com/236x/3f/fd/ad/3ffdadc90609473047f0ccd3d99faa6c.jpg" , "title":"Amber"},
+  {"id": 4, "ingradientImg": "https://i.pinimg.com/236x/71/69/e5/7169e54b41c2813a66d9e168d95ccafc.jpg", "title":"Musk"},
+  {"id":5, "ingradientImg":"https://i.pinimg.com/236x/cd/05/3f/cd053ffa7f6749bb9b08b3df0ed2e0bb.jpg","title":"Vanilla"},
+  {"id":6,"ingradientImg": "https://i.pinimg.com/564x/85/e0/6f/85e06f22b958f3963666e5fe9694662a.jpg", "title":"Jasmine"}
+],
+"blogs":[
+  {"id":1, "blogImg":"https://i.pinimg.com/564x/8b/6a/db/8b6adbf529943d55bea2461e3644f657.jpg", "blogTitle":"Ay İşığı", "blogDesc":"Bu ətir, ay işığının soyuq və sakitləşdirici təsirini daşıyır. Onun tərkibində lavanda, yasmın və ağ bənövşə kimi incə qoxular var. Bu ətir, sakitləşdirici və meditativ bir atmosfer yaradır." },
+{"id":2, "blogImg":"https://i.pinimg.com/736x/6a/44/89/6a4489edf2c1a825007b79e783ba81a6.jpg", "blogTitle":"Meşə Mistikası", "blogDesc":"Artemis'in təbiətə olan sevgisini əks etdirən bu ətir, çam, sidr və səndəl ağacı kimi təbii qoxuları birləşdirir. Bu ətir, meşənin dərinliklərində gəzmək hissini yaradır."},
+{"id":3, "blogImg":"https://i.pinimg.com/564x/e7/f8/bf/e7f8bf8ff14593986868d210b0bbc220.jpg", "blogTitle":"Ovçu Ruh","blogDesc":"Artemis'in ovçuluq ruhunu əks etdirən bu ətir, müxtəlif ədviyyatlar və otlarla zəngindir. Darçın, mixək və kəklikotu kimi notlar bu ətirə enerji və canlılıq qatır."}
+
+],
+"accordions":[
+  {"id":1, "question":"Artemis məhsulları harada istehsal olunur?", "answer":"Artemis parfümeriyası məhsulları yüksək standartlara uyğun olaraq müxtəlif ölkələrdə istehsal olunur. Məhsullarımızın hər biri keyfiyyətinə zəmanət verir"},
+  {"id":2, "question":" Hansı növ ətir növləri təklif edirsiniz?", "answer":"Artemis geniş çeşidli ətir növlərini təklif edir: çiçək, meyvə, oduncaq, oriyental və başqa notlarla zəngin ətirlər mövcuddur."},
+  {"id":3, "question":"Artemis məhsullarını haradan ala bilərəm?", "answer":"Artemis parfümeriyası məhsullarını rəsmi vebsaytımızdan, həmçinin təsdiqlənmiş fiziki və onlayn mağazalardan əldə edə bilərsiniz."},
+  {"id":4, "question":"Göndərmə şərtləri necədir?", "answer":"Artemis məhsulları bütün dünya üzrə göndərilir. Göndərmə şərtləri və müddətləri barədə ətraflı məlumatı vebsaytımızda 'Göndərmə və Çatdırılma' bölümündən əldə edə bilərsiniz."},
+  {"id":5, "question":"Məhsulu geri qaytarmaq mümkündürmü?", "answer":"Bəli, məhsulun geri qaytarılması mümkündür. Qaytarma şərtləri və proseduru barədə ətraflı məlumatı 'Geri Qaytarma Siyasəti' bölümümüzdən öyrənə bilərsiniz."},
+  {"id":6, "question":"Yeni məhsullar və endirimlər haqqında necə məlumat ala bilərəm?", "answer":"Yeni məhsullar, xüsusi təkliflər və endirimlər haqqında məlumatları almaq üçün vebsaytımıza abunə ola bilərsiniz. Ayrıca, sosial media hesablarımızı izləyərək yeniliklərdən xəbərdar ola bilərsiniz."}
+
+
+]
+
+
+  }

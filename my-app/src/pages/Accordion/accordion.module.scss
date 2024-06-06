@@ -1,0 +1,65 @@
+
+
+
+#accordions{
+   
+    max-width: 100%;
+    .container{
+        max-width: 1400px;
+        margin: 0 auto;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     flex-direction: column;
+     padding-top: 30px;
+     h1{
+        font-family: "Cormorant Garamond", serif;
+        font-weight: 600;
+     }
+
+        .accordions{
+   
+         max-width: 800px;
+            margin: 15px 0 40px;
+            .accordion{
+                margin: 15px 0 ;
+                // background-color: violet;
+                border: 1px solid #ddd;
+                border-radius: 5px;
+                overflow: hidden;
+                box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+                .question{
+                    background-color: #f7f7f7;
+                    cursor: pointer;
+                    padding: 15px;
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                    h3{
+                        font-size:22px;
+                        margin: 0;
+                    }
+                    span{
+                        font-size: 22px;
+                    }
+                }
+                .answer{
+                    max-height: 300px;
+                    padding: 15px;
+                    background-color: #fff;
+                    transition: all .4s;
+                   transition: all .4s;
+                   p{
+                    font-size: 18px;
+                   }
+                }
+                .answerHidden{
+                    max-height: 0px;
+                    transition: all .4s;
+                    overflow: hidden;
+                    
+                }
+            }
+        }
+    }
+}
