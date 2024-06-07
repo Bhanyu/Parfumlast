@@ -246,13 +246,17 @@ margin-left: 0;
     color: aliceblue;
         @media (max-width:992px) {
           margin-left: 10px;
+
         }
         @media (max-width:665px) {
        margin-left: 8px;
           }
     .option{
         color: black;
-    
+      @media (max-width:992px) {
+        font-size: 16px;
+          
+        }
      }
     }
 }
